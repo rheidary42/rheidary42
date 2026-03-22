@@ -1,4 +1,4 @@
-# thanks for stopping by i'm radin [🔊](https://www.pronouncenames.com/Radin)
+thanks for stopping by i'm radin [🔊](https://www.pronouncenames.com/Radin)
 
 i'm passionate about learning complex systems, getting as low level as possible in pursuit of making correct, efficient software.
 
